@@ -1,0 +1,57 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%8D%B2+Personalized+Recipe+Recommender;Meals+Tailored+to+Your+Goals+%26+Allergies;Built+with+Flask+%2B+Python+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-00D9FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-BD00FF?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-72F1B8?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-00D9FF?style=for-the-badge&logo=numpy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backendless-BD00FF?style=for-the-badge&logo=backendless&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-72F1B8?style=for-the-badge&logo=html5&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/TheYashvanth/recipe-recommendation-system?style=social" />
+  <img src="https://img.shields.io/github/forks/TheYashvanth/recipe-recommendation-system?style=social" />
+  <img src="https://img.shields.io/github/license/TheYashvanth/recipe-recommendation-system" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=80&section=header&animation=twinkling" width="100%" />
+
+---
+
+## 📖 Overview
+
+A **Flask-powered web application** that delivers personalized meal recommendations based on each user's **dietary goals, preferences, and allergies**. Includes secure authentication, profile management, and automated nutrition reporting — all backed by **Backendless** cloud services.
+
+> 🎯 **Goal:** Make healthy eating simple with smart, data-driven meal suggestions.
+
+---
+
+## ✨ Key Features
+
+- 🥗 **Personalized meal suggestions** based on user goals
+- 🚫 **Allergy-aware filtering** — safe recommendations only
+- 🔐 **Secure authentication** via Backendless
+- 👤 **User profile management** (goals, preferences, restrictions)
+- 📊 **Calorie calculations** per meal and per day
+- 📅 **Automated nutrition reports** — daily, weekly & monthly
+- 📈 **Data persistence** in cloud backend
+- 🎨 **Clean, responsive UI** with HTML5 + CSS3
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| **Backend** | Python, Flask |
+| **Data** | Pandas, NumPy |
+| **BaaS** | Backendless (auth + DB) |
+| **Frontend** | HTML5, CSS3 |
+| **Deployment** | Local / Cloud-ready |
+
+---
+
+## 🏗️ Architecture
